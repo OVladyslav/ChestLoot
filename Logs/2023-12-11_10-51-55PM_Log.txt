@@ -1,0 +1,260 @@
+2023-12-11_10-51-55PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-51-55PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-51-55PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_10-51-55PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-51-55PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Rare
+2023-12-11_10-51-55PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 42	Event: Randomizing and aplying effects...
+2023-12-11_10-51-55PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Maul
+2023-12-11_10-51-55PM	[..\Qt_projects\ChestLoot\fireweaponwrapper.cpp]	Line: 5	Event: Object "FireWeaponWrapper" constructed
+2023-12-11_10-51-55PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Fire Maul
+2023-12-11_10-51-55PM	[..\Qt_projects\ChestLoot\honingweaponwrapper.cpp]	Line: 5	Event: Object "HoningWeaponWrapper" constructed
+2023-12-11_10-51-55PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-51-56PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-51-56PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-51-56PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_10-51-56PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-51-56PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-51-56PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-51-57PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-51-57PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-51-57PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_10-51-57PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-51-57PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-51-57PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-51-57PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-51-57PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-51-57PM	[..\Qt_projects\ChestLoot\spear.cpp]	Line: 5	Event: Object "Spear" constructed
+2023-12-11_10-51-57PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-51-57PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-51-57PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-51-58PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-51-58PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-51-58PM	[..\Qt_projects\ChestLoot\spear.cpp]	Line: 5	Event: Object "Spear" constructed
+2023-12-11_10-51-58PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-51-58PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-51-58PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-51-59PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-51-59PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-51-59PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_10-51-59PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-51-59PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-51-59PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-51-59PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-51-59PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-51-59PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_10-51-59PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-51-59PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-51-59PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-0PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-0PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-0PM	[..\Qt_projects\ChestLoot\spear.cpp]	Line: 5	Event: Object "Spear" constructed
+2023-12-11_10-52-0PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-0PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-0PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-0PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-0PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-0PM	[..\Qt_projects\ChestLoot\spear.cpp]	Line: 5	Event: Object "Spear" constructed
+2023-12-11_10-52-0PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-0PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-0PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-1PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-1PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-1PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_10-52-1PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-1PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-1PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-1PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-1PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-1PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_10-52-1PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-1PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-1PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-2PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-2PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-2PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_10-52-2PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-2PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Uncommon
+2023-12-11_10-52-2PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 42	Event: Randomizing and aplying effects...
+2023-12-11_10-52-2PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Maul
+2023-12-11_10-52-2PM	[..\Qt_projects\ChestLoot\slayerweaponwrapper.cpp]	Line: 5	Event: Object "SlayerWeaponWrapper" constructed
+2023-12-11_10-52-2PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Uncommon
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 42	Event: Randomizing and aplying effects...
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Maul
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\poisonweaponwrapper.cpp]	Line: 5	Event: Object "PoisonWeaponWrapper" constructed
+2023-12-11_10-52-3PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-4PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-4PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-4PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_10-52-4PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-4PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Uncommon
+2023-12-11_10-52-4PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 42	Event: Randomizing and aplying effects...
+2023-12-11_10-52-4PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Sword
+2023-12-11_10-52-4PM	[..\Qt_projects\ChestLoot\honingweaponwrapper.cpp]	Line: 5	Event: Object "HoningWeaponWrapper" constructed
+2023-12-11_10-52-4PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\spear.cpp]	Line: 5	Event: Object "Spear" constructed
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Uncommon
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 42	Event: Randomizing and aplying effects...
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Spear
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\poisonweaponwrapper.cpp]	Line: 5	Event: Object "PoisonWeaponWrapper" constructed
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Rare
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 42	Event: Randomizing and aplying effects...
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Maul
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\slayerweaponwrapper.cpp]	Line: 5	Event: Object "SlayerWeaponWrapper" constructed
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Maul of the Slayer
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\poisonweaponwrapper.cpp]	Line: 5	Event: Object "PoisonWeaponWrapper" constructed
+2023-12-11_10-52-5PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-6PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-6PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-6PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_10-52-6PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-6PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Uncommon
+2023-12-11_10-52-6PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 42	Event: Randomizing and aplying effects...
+2023-12-11_10-52-6PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Sword
+2023-12-11_10-52-6PM	[..\Qt_projects\ChestLoot\fireweaponwrapper.cpp]	Line: 5	Event: Object "FireWeaponWrapper" constructed
+2023-12-11_10-52-6PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-7PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-7PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-7PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_10-52-7PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-7PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-7PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-7PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-7PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-7PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_10-52-7PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-7PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-7PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-8PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-8PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-8PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_10-52-8PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-8PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-8PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-8PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-8PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-8PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_10-52-8PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-8PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-8PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-9PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-9PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-9PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_10-52-9PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-9PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-9PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Uncommon
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 42	Event: Randomizing and aplying effects...
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Maul
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\fireweaponwrapper.cpp]	Line: 5	Event: Object "FireWeaponWrapper" constructed
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Uncommon
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 42	Event: Randomizing and aplying effects...
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Sword
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\poisonweaponwrapper.cpp]	Line: 5	Event: Object "PoisonWeaponWrapper" constructed
+2023-12-11_10-52-10PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-11PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-11PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-11PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_10-52-11PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-11PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-11PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-12PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-12PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-12PM	[..\Qt_projects\ChestLoot\spear.cpp]	Line: 5	Event: Object "Spear" constructed
+2023-12-11_10-52-12PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-12PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-12PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-12PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-12PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-12PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_10-52-12PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-12PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-12PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-17PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-17PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-17PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_10-52-17PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-17PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Uncommon
+2023-12-11_10-52-17PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 42	Event: Randomizing and aplying effects...
+2023-12-11_10-52-17PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Sword
+2023-12-11_10-52-17PM	[..\Qt_projects\ChestLoot\honingweaponwrapper.cpp]	Line: 5	Event: Object "HoningWeaponWrapper" constructed
+2023-12-11_10-52-17PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-18PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-18PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-18PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_10-52-18PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-18PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Common
+2023-12-11_10-52-18PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 11	Event: Randomizing weapon type...
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\weapon.cpp]	Line: 6	Event: Object "Weapon" constructed
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 25	Event: Randomizing rarity...
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 39	Event: Rarity is Legendary
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\weapongenerator.cpp]	Line: 42	Event: Randomizing and aplying effects...
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Sword
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\fireweaponwrapper.cpp]	Line: 5	Event: Object "FireWeaponWrapper" constructed
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Fire Sword
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\slayerweaponwrapper.cpp]	Line: 5	Event: Object "SlayerWeaponWrapper" constructed
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Fire Sword of the Slayer
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\poisonweaponwrapper.cpp]	Line: 5	Event: Object "PoisonWeaponWrapper" constructed
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\weaponwrapper.cpp]	Line: 6	Event: Object "WeaponWrapper" constructed for Poisonous Fire Sword of the Slayer
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\honingweaponwrapper.cpp]	Line: 5	Event: Object "HoningWeaponWrapper" constructed
+2023-12-11_10-52-19PM	[..\Qt_projects\ChestLoot\mainwindow.cpp]	Line: 35	Event: Weapon created!
+

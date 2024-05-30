@@ -1,0 +1,100 @@
+2023-12-12_0-20-20AM          Event: Randomizing weapon type...                           [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 11       
+2023-12-12_0-20-20AM          Event: Object "Weapon" constructed                          [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 11       
+2023-12-12_0-20-20AM          Event: Object "Spear" constructed                           [..\Qt_projects\ChestLoot\spear.cpp]                        Line: 5        
+2023-12-12_0-20-20AM          Event: Randomizing rarity...                                [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 25       
+2023-12-12_0-20-20AM          Event: Rarity is Epic                                       [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 39       
+2023-12-12_0-20-20AM          Event: Randomizing and aplying effects...                   [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 42       
+2023-12-12_0-20-20AM          Event: Object "Weapon" constructed                          [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 5        
+2023-12-12_0-20-20AM          Event: Object "WeaponWrapper" constructed for Spear         [..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 6        
+2023-12-12_0-20-20AM          Event: Object "SlayerWeaponWrapper" constructed             [..\Qt_projects\ChestLoot\slayerweaponwrapper.cpp]          Line: 5        
+2023-12-12_0-20-20AM          Event: Object "Weapon" constructed                          [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 5        
+2023-12-12_0-20-20AM          Event: Object "WeaponWrapper" constructed for Spear of the Slayer[..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 6        
+2023-12-12_0-20-20AM          Event: Object "PoisonWeaponWrapper" constructed             [..\Qt_projects\ChestLoot\poisonweaponwrapper.cpp]          Line: 5        
+2023-12-12_0-20-20AM          Event: Object "Weapon" constructed                          [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 5        
+2023-12-12_0-20-20AM          Event: Object "WeaponWrapper" constructed for Poisonous Spear of the Slayer[..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 6        
+2023-12-12_0-20-20AM          Event: Object "HoningWeaponWrapper" constructed             [..\Qt_projects\ChestLoot\honingweaponwrapper.cpp]          Line: 5        
+2023-12-12_0-20-20AM          Event: Weapon created!                                      [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 35       
+2023-12-12_0-20-20AM          Event: Object "HoningWeaponDecorator" destructed            [..\Qt_projects\ChestLoot\honingweaponwrapper.cpp]          Line: 8        
+2023-12-12_0-20-20AM          Event: Object "WeaponWrapper" begins destruction            [..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 11       
+2023-12-12_0-20-20AM          Event: Object "PoisonWeaponDecorator" destructed            [..\Qt_projects\ChestLoot\poisonweaponwrapper.cpp]          Line: 8        
+2023-12-12_0-20-20AM          Event: Object "WeaponWrapper" begins destruction            [..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 11       
+2023-12-12_0-20-20AM          Event: Object "SlayerWeaponDecorator" destructed            [..\Qt_projects\ChestLoot\slayerweaponwrapper.cpp]          Line: 8        
+2023-12-12_0-20-20AM          Event: Object "WeaponWrapper" begins destruction            [..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 11       
+2023-12-12_0-20-20AM          Event: Object "Spear" destructed                            [..\Qt_projects\ChestLoot\spear.cpp]                        Line: 6        
+2023-12-12_0-20-20AM          Event: Object "Weapon" destructed                           [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 16       
+2023-12-12_0-20-20AM          Event: Object "WeaponWrapper" destructed                    [..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 13       
+2023-12-12_0-20-20AM          Event: Object "Weapon" destructed                           [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 16       
+2023-12-12_0-20-20AM          Event: Object "WeaponWrapper" destructed                    [..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 13       
+2023-12-12_0-20-20AM          Event: Object "Weapon" destructed                           [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 16       
+2023-12-12_0-20-20AM          Event: Object "WeaponWrapper" destructed                    [..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 13       
+2023-12-12_0-20-20AM          Event: Object "Weapon" destructed                           [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 16       
+2023-12-12_0-20-20AM          Event: Weapon pointer deleted.
+                             [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 56       
+2023-12-12_0-20-20AM          Event: Randomizing weapon type...                           [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 11       
+2023-12-12_0-20-20AM          Event: Object "Weapon" constructed                          [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 11       
+2023-12-12_0-20-20AM          Event: Object "Sword" constructed                           [..\Qt_projects\ChestLoot\sword.cpp]                        Line: 4        
+2023-12-12_0-20-20AM          Event: Randomizing rarity...                                [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 25       
+2023-12-12_0-20-20AM          Event: Rarity is Common                                     [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 39       
+2023-12-12_0-20-20AM          Event: Weapon created!                                      [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 35       
+2023-12-12_0-20-20AM          Event: Object "Sword" destructed                            [..\Qt_projects\ChestLoot\sword.cpp]                        Line: 5        
+2023-12-12_0-20-20AM          Event: Object "Weapon" destructed                           [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 16       
+2023-12-12_0-20-20AM          Event: Weapon pointer deleted.
+                             [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 56       
+2023-12-12_0-20-20AM          Event: Randomizing weapon type...                           [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 11       
+2023-12-12_0-20-20AM          Event: Object "Weapon" constructed                          [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 11       
+2023-12-12_0-20-20AM          Event: Object "Spear" constructed                           [..\Qt_projects\ChestLoot\spear.cpp]                        Line: 5        
+2023-12-12_0-20-20AM          Event: Randomizing rarity...                                [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 25       
+2023-12-12_0-20-20AM          Event: Rarity is Common                                     [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 39       
+2023-12-12_0-20-20AM          Event: Weapon created!                                      [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 35       
+2023-12-12_0-20-20AM          Event: Object "Spear" destructed                            [..\Qt_projects\ChestLoot\spear.cpp]                        Line: 6        
+2023-12-12_0-20-20AM          Event: Object "Weapon" destructed                           [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 16       
+2023-12-12_0-20-20AM          Event: Weapon pointer deleted.
+                             [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 56       
+2023-12-12_0-20-20AM          Event: Randomizing weapon type...                           [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 11       
+2023-12-12_0-20-20AM          Event: Object "Weapon" constructed                          [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 11       
+2023-12-12_0-20-20AM          Event: Object "Maul" constructed                            [..\Qt_projects\ChestLoot\maul.cpp]                         Line: 6        
+2023-12-12_0-20-20AM          Event: Randomizing rarity...                                [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 25       
+2023-12-12_0-20-20AM          Event: Rarity is Common                                     [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 39       
+2023-12-12_0-20-20AM          Event: Weapon created!                                      [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 35       
+2023-12-12_0-20-20AM          Event: Object "Maul" destructed                             [..\Qt_projects\ChestLoot\maul.cpp]                         Line: 7        
+2023-12-12_0-20-20AM          Event: Object "Weapon" destructed                           [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 16       
+2023-12-12_0-20-20AM          Event: Weapon pointer deleted.
+                             [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 56       
+2023-12-12_0-20-21AM          Event: Randomizing weapon type...                           [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 11       
+2023-12-12_0-20-21AM          Event: Object "Weapon" constructed                          [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 11       
+2023-12-12_0-20-21AM          Event: Object "Maul" constructed                            [..\Qt_projects\ChestLoot\maul.cpp]                         Line: 6        
+2023-12-12_0-20-21AM          Event: Randomizing rarity...                                [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 25       
+2023-12-12_0-20-21AM          Event: Rarity is Common                                     [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 39       
+2023-12-12_0-20-21AM          Event: Weapon created!                                      [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 35       
+2023-12-12_0-20-21AM          Event: Object "Maul" destructed                             [..\Qt_projects\ChestLoot\maul.cpp]                         Line: 7        
+2023-12-12_0-20-21AM          Event: Object "Weapon" destructed                           [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 16       
+2023-12-12_0-20-21AM          Event: Weapon pointer deleted.
+                             [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 56       
+2023-12-12_0-20-21AM          Event: Randomizing weapon type...                           [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 11       
+2023-12-12_0-20-21AM          Event: Object "Weapon" constructed                          [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 11       
+2023-12-12_0-20-21AM          Event: Object "Maul" constructed                            [..\Qt_projects\ChestLoot\maul.cpp]                         Line: 6        
+2023-12-12_0-20-21AM          Event: Randomizing rarity...                                [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 25       
+2023-12-12_0-20-21AM          Event: Rarity is Uncommon                                   [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 39       
+2023-12-12_0-20-21AM          Event: Randomizing and aplying effects...                   [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 42       
+2023-12-12_0-20-21AM          Event: Object "Weapon" constructed                          [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 5        
+2023-12-12_0-20-21AM          Event: Object "WeaponWrapper" constructed for Maul          [..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 6        
+2023-12-12_0-20-21AM          Event: Object "FireWeaponWrapper" constructed               [..\Qt_projects\ChestLoot\fireweaponwrapper.cpp]            Line: 5        
+2023-12-12_0-20-21AM          Event: Weapon created!                                      [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 35       
+2023-12-12_0-20-21AM          Event: Object "FireWeaponDecorator" destructed              [..\Qt_projects\ChestLoot\fireweaponwrapper.cpp]            Line: 9        
+2023-12-12_0-20-21AM          Event: Object "WeaponWrapper" begins destruction            [..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 11       
+2023-12-12_0-20-21AM          Event: Object "Maul" destructed                             [..\Qt_projects\ChestLoot\maul.cpp]                         Line: 7        
+2023-12-12_0-20-21AM          Event: Object "Weapon" destructed                           [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 16       
+2023-12-12_0-20-21AM          Event: Object "WeaponWrapper" destructed                    [..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 13       
+2023-12-12_0-20-21AM          Event: Object "Weapon" destructed                           [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 16       
+2023-12-12_0-20-21AM          Event: Weapon pointer deleted.
+                             [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 56       
+2023-12-12_0-20-21AM          Event: Randomizing weapon type...                           [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 11       
+2023-12-12_0-20-21AM          Event: Object "Weapon" constructed                          [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 11       
+2023-12-12_0-20-21AM          Event: Object "Sword" constructed                           [..\Qt_projects\ChestLoot\sword.cpp]                        Line: 4        
+2023-12-12_0-20-21AM          Event: Randomizing rarity...                                [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 25       
+2023-12-12_0-20-21AM          Event: Rarity is Common                                     [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 39       
+2023-12-12_0-20-21AM          Event: Weapon created!                                      [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 35       
+2023-12-12_0-20-21AM          Event: Object "Sword" destructed                            [..\Qt_projects\ChestLoot\sword.cpp]                        Line: 5        
+2023-12-12_0-20-21AM          Event: Object "Weapon" destructed                           [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 16       
+2023-12-12_0-20-21AM          Event: Weapon pointer deleted.
+                             [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 56       

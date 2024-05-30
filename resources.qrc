@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/treasure_chest.png</file>
+        <file>img/weapon_set.png</file>
+        <file>img/weapon_sword.png</file>
+        <file>img/weapon_spear.png</file>
+        <file>img/weapon_maul.png</file>
+        <file>img/effect_star.png</file>
+        <file>img/effect_slayer.png</file>
+        <file>img/effect_fire_Spear.png</file>
+        <file>img/effect_poison_Spear.png</file>
+    </qresource>
+</RCC>

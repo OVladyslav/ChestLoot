@@ -1,0 +1,11 @@
+2023-12-11_9-49-28PM	[..\Qt_projects\ChestLoot\spear.cpp]	Line: 5	Event: Object "Spear" constructed
+2023-12-11_9-49-32PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_9-49-40PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_9-49-41PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_9-49-41PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_9-49-42PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_9-49-43PM	[..\Qt_projects\ChestLoot\maul.cpp]	Line: 6	Event: Object "Maul" constructed
+2023-12-11_9-49-43PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_9-49-44PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_9-49-45PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed
+2023-12-11_9-49-45PM	[..\Qt_projects\ChestLoot\sword.cpp]	Line: 6	Event: Object "Sword" constructed

@@ -1,0 +1,17 @@
+2024-3-6_7-59-23PM       Event: Randomizing weapon type...                                                                   [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 11       
+2024-3-6_7-59-23PM       Event: Object "Weapon" constructed                                                                  [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 11       
+2024-3-6_7-59-23PM       Event: Object "Sword" constructed                                                                   [..\Qt_projects\ChestLoot\sword.cpp]                        Line: 4        
+2024-3-6_7-59-23PM       Event: Randomizing rarity...                                                                        [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 25       
+2024-3-6_7-59-23PM       Event: Rarity is Uncommon                                                                           [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 39       
+2024-3-6_7-59-23PM       Event: Randomizing and aplying effects...                                                           [..\Qt_projects\ChestLoot\weapongenerator.cpp]              Line: 42       
+2024-3-6_7-59-23PM       Event: Object "Weapon" constructed                                                                  [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 5        
+2024-3-6_7-59-23PM       Event: Object "WeaponWrapper" constructed for Sword                                                 [..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 6        
+2024-3-6_7-59-23PM       Event: Object "HoningWeaponWrapper" constructed                                                     [..\Qt_projects\ChestLoot\honingweaponwrapper.cpp]          Line: 5        
+2024-3-6_7-59-23PM       Event: Weapon created!                                                                              [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 35       
+2024-3-6_7-59-23PM       Event: Object "HoningWeaponDecorator" destructed                                                    [..\Qt_projects\ChestLoot\honingweaponwrapper.cpp]          Line: 8        
+2024-3-6_7-59-23PM       Event: Object "WeaponWrapper" begins destruction                                                    [..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 11       
+2024-3-6_7-59-23PM       Event: Object "Sword" destructed                                                                    [..\Qt_projects\ChestLoot\sword.cpp]                        Line: 5        
+2024-3-6_7-59-23PM       Event: Object "Weapon" destructed                                                                   [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 16       
+2024-3-6_7-59-23PM       Event: Object "WeaponWrapper" destructed                                                            [..\Qt_projects\ChestLoot\weaponwrapper.cpp]                Line: 13       
+2024-3-6_7-59-23PM       Event: Object "Weapon" destructed                                                                   [..\Qt_projects\ChestLoot\weapon.cpp]                       Line: 16       
+2024-3-6_7-59-23PM       Event: Weapon pointer deleted.                                                                      [..\Qt_projects\ChestLoot\mainwindow.cpp]                   Line: 56       
